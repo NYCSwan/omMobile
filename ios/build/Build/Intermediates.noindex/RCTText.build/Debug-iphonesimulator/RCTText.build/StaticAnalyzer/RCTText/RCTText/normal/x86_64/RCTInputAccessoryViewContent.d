@@ -1,0 +1,7 @@
+dependencies: \
+  /Users/Swan/Desktop/SwanbyTech/omMobile/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryViewContent.m \
+  /Users/Swan/Desktop/SwanbyTech/omMobile/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryViewContent.h \
+  /Users/Swan/Desktop/SwanbyTech/omMobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/Swan/Desktop/SwanbyTech/omMobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/Swan/Desktop/SwanbyTech/omMobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Swan/Desktop/SwanbyTech/omMobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h
